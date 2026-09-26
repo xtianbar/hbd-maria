@@ -19,7 +19,7 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 260px;
+  top: 310px;
   left: 50%;
   margin-left: -2.4px;
   margin-top: -8.33333333px;
@@ -47,7 +47,7 @@ body {
 }
 
 .candle:before {
-  top: 45%;
+  top: 65%;
   left: 0;
 }
 

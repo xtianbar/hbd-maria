@@ -19,12 +19,12 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 228px;
+  top: 260px;
   left: 50%;
   margin-left: -2.4px;
   margin-top: -8.33333333px;
   width: 5px;
-  height: 35px;
+  height: 45px;
   transform: translateY(-300px);
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
@@ -55,7 +55,7 @@ body {
   border-radius: 100%;
   position: absolute;
   top: -20px;
-  left: 50%;
+  left: 49%;
   margin-left: -2.6px;
   width: 6.66666667px;
   height: 18px;
